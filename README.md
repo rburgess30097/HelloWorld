@@ -1,1 +1,3 @@
 # HelloWorld
+
+This is my first project in GitHub. I am evaluating it to potentially use it for the company to manage all projects: Technical, financial, legal, sales, marketing, etc...
